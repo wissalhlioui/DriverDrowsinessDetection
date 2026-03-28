@@ -46,10 +46,10 @@ These metrics provide a comprehensive evaluation of the model's ability to corre
 ## Results
 
 ### Model Performance (Training)
-![Training loss](images/loss-curve)
+![Training loss](images/loss-curve.jpg)
 
 
-![Training Accuracy](images/accuracies-curves)
+![Training Accuracy](images/accuracies-curves.jpg)
 
 ### Results Discussion
 
@@ -59,8 +59,8 @@ These results highlight the robustness of the adopted methodology, as well as th
 
 Overall, the model shows strong potential for practical applications in driver safety systems, particularly for early detection of fatigue during driving.
 
-
-==== The model classifies eye states into two categories: open and closed, which are used as indicators for driver alertness or drowsiness.
+### Eye State Classification
+The model classifies eye states into two categories: open and closed, which are used as indicators for driver alertness or drowsiness.
 
 ## Note
 The source code of this project is confidential and is not publicly available. This repository contains only project documentation and example results.
