@@ -69,7 +69,7 @@ The source code of this project is confidential and is not publicly available. T
 
 ## Author
 
-Wissal Hlioui
-Electronis Engineer 
+Wissal Hlioui|Electronis Engineer 
+
 
 AI Enthusiast
